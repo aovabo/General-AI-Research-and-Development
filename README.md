@@ -1,4 +1,7 @@
 # General-AI-Research-and-Development
+![image](https://github.com/user-attachments/assets/a98683c7-55bd-4f48-b47d-9ff443166edb)
+
+
 Materials to become a Full stack AI Systems Engineer. 
 
 Goal: build the most exciting AI Application lab and release quality papers and research AI Application products. 
