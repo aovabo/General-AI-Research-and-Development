@@ -1,4 +1,4 @@
-# My journey to becoming a Full-Stack AI Engineer.
+# My journey to becoming a Full-Stack AI Systems Engineer.
 ![image](https://github.com/user-attachments/assets/a98683c7-55bd-4f48-b47d-9ff443166edb)
 
 
