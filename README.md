@@ -1,4 +1,4 @@
-# General-AI-Research-and-Development
+# My journey to becoming a Full-Stack AI Engineer.
 ![image](https://github.com/user-attachments/assets/a98683c7-55bd-4f48-b47d-9ff443166edb)
 
 
